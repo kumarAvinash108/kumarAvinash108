@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color:red;">
  <img src="https://imgs.search.brave.com/zaXc-jooSczkLdNceV8ZHpS0GhCs93VBkWthasyMOHo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaGVsbG8t/Y3V0ZS1kYW5jZS1l/OGk3MGh6ZDEwNjVi/cTlyLmdpZg.gif" />
 </h1>
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
